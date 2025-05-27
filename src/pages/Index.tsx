@@ -11,7 +11,7 @@ import { Badge } from "@/components/ui/badge";
 import {
   Image as ImageIcon,
   Upload,
-  Gallery,
+  Images as Gallery,
   Search,
   Tags,
   Settings,
